@@ -11,7 +11,11 @@
     "lodash": "^4.17.11",
     "memoize": "^0.1.1",
     "mnist-data": "^1.2.6",
+<<<<<<< HEAD
     "node-remote-plot": "^1.3.0",
+=======
+    "node-remote-plot": "^1.2.0",
+>>>>>>> 0c5f3698c25eded01ec0bbcf57628ece77f88222
     "shuffle-seed": "^1.1.6"
   }
 }
